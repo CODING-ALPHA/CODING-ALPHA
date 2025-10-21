@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ayomide.webdev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LDWmnpe7lblRQVpaK-WCUdBsHAlm6qAOglEtSggloS0/edit?usp=sharing](https://docs.google.com/document/d/1LDWmnpe7lblRQVpaK-WCUdBsHAlm6qAOglEtSggloS0/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GVEawBVcqfeQiFIn6Q_wTlkJ5ETLMbDY/view?usp=drive_link](https://drive.google.com/file/d/1GVEawBVcqfeQiFIn6Q_wTlkJ5ETLMbDY/view?usp=drive_link)
 
 - ⚡ Fun fact **I play the piano when I am less busy**
 
