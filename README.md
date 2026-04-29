@@ -102,8 +102,8 @@ I excel at bridging the gap between structure and execution—thinking about how
 
 ## 📝 Quick Links
 
-- 👨‍💻 **Portfolio:** [my-original-portfolio.vercel.app](https://my-original-portfolio.vercel.app/)
-- 📄 **Resume:** [View Full Resume](https://drive.google.com/file/d/1GVEawBVcqfeQiFIn6Q_wTlkJ5ETLMbDY/view?usp=sharing)
+- 👨‍💻 **Portfolio:** [www.akinbinuayomide.dev](https://www.akinbinuayomide.dev)
+- 📄 **Resume:** [View Full Resume](https://docs.google.com/document/d/1pEHDJOtMedP1kWcVvObqUVvgIV37J0vlb6ouP4tkBc8/edit?usp=sharing)
 - 📫 **Email:** ayomide.webdev@gmail.com
 
 ---
